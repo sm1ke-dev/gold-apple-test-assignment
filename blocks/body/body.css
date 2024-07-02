@@ -1,11 +1,9 @@
 .body {
-  max-width: 580px;
-  min-width: 280px;
+  max-width: 800px;
   background-color: #fff;
   font-family: "Helvetica", sans-serif;
   font-weight: normal;
   margin: 0 auto;
-  padding: 0 20px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
