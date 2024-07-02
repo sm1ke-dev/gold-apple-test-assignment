@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica"), url("Helvetica.eot") format("eot"),
+    url("Helvetica.woff2") format("woff2"), url("Helvetica.woff") format("woff"),
+    url("Helvetica.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica Light"), local("Helvetica-Light"),
+    url("Helvetica-Light.eot") format("eot"),
+    url("Helvetica-Light.woff2") format("woff2"),
+    url("Helvetica-Light.woff") format("woff"),
+    url("Helvetica-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica Bold"), local("Helvetica-Bold"),
+    url("Helvetica-Bold.eot") format("eot"),
+    url("Helvetica-Bold.woff2") format("woff2"),
+    url("Helvetica-Bold.woff") format("woff"),
+    url("Helvetica-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HelveticaNeueCyr";
+  src: local("HelveticaNeueCyr Bold"), local("HelveticaNeueCyr-Bold"),
+    url("helveticaneuecyr-bold.eot") format("eot"),
+    url("helveticaneuecyr-bold.woff2") format("woff2"),
+    url("helveticaneuecyr-bold.woff") format("woff"),
+    url("helveticaneuecyr-bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik LCG";
+  src: local("Graphik LCG Regular"), local("GraphikLCG-Regular"),
+    url("GraphikLCG-Regular.eot") format("eot"),
+    url("GraphikLCG-Regular.woff2") format("woff2"),
+    url("GraphikLCG-Regular.woff") format("woff"),
+    url("GraphikLCG-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
