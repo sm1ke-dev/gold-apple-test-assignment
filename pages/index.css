@@ -17,3 +17,7 @@
 @import url(../blocks/description/__title/description__title.css);
 @import url(../blocks/description/__subtitle/description__subtitle.css);
 @import url(../blocks/description/__button/description__button.css);
+
+@import url(../blocks/title/title.css);
+@import url(../blocks/subtitle/subtitle.css);
+@import url(../blocks/additional-title/additional-title.css);
