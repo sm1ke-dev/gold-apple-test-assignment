@@ -1,0 +1,20 @@
+.discount__subtitle {
+  max-width: 330px;
+  margin: 6px auto 0;
+  font-size: 14px;
+  line-height: 130%;
+  text-align: center;
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 425px) {
+  .discount__subtitle {
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .discount__subtitle {
+    max-width: 250px;
+  }
+}

@@ -1,0 +1,10 @@
+.discount__additional-title {
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 150%;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+  opacity: 0.7;
+}

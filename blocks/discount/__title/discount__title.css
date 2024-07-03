@@ -1,0 +1,17 @@
+.discount__title {
+  font-weight: normal;
+  font-size: 50px;
+  margin: -2px 0 0;
+}
+
+@media screen and (max-width: 540px) {
+  .discount__title {
+    font-size: 45px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .discount__title {
+    margin-top: -4px;
+  }
+}

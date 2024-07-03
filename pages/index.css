@@ -45,6 +45,16 @@
 @import url(../blocks/item/__price/_old/item__price_old.css);
 @import url(../blocks/item/__buy-link/item__buy-link.css);
 
+@import url(../blocks/main/__discount/main__discount.css);
+@import url(../blocks/discount/discount.css);
+@import url(../blocks/discount/__wrapper/discount__wrapper.css);
+@import url(../blocks/discount/__additional-title/discount__additional-title.css);
+@import url(../blocks/discount/__title/discount__title.css);
+@import url(../blocks/discount/__subtitle/discount__subtitle.css);
+@import url(../blocks/discount/__button/discount__button.css);
+@import url(../blocks/discount/__annotation/discount__annotation.css);
+
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/additional-title/additional-title.css);
+@import url(../blocks/button/button.css);
