@@ -1,0 +1,13 @@
+.footer__bottom-section {
+  margin-top: 33px;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+  .footer__bottom-section {
+    margin-top: 19px;
+    flex-direction: column;
+    gap: 13px;
+  }
+}

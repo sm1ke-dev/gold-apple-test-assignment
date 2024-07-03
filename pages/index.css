@@ -54,6 +54,23 @@
 @import url(../blocks/discount/__button/discount__button.css);
 @import url(../blocks/discount/__annotation/discount__annotation.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/__top-section/footer__top-section.css);
+@import url(../blocks/footer/__socials/footer__socials.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__link/_type_number/footer__link_type_number.css);
+@import url(../blocks/footer/__link/_inactive/footer__link_inactive.css);
+@import url(../blocks/footer/__svg/footer__svg.css);
+@import url(../blocks/footer/__svg/_type_social/footer__svg_type_social.css);
+@import url(../blocks/footer/__svg/_type_apple/footer__svg_type_apple.css);
+@import url(../blocks/footer/__svg/_type_google/footer__svg_type_google.css);
+@import url(../blocks/footer/__stores/footer__stores.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__bottom-section/footer__bottom-section.css);
+@import url(../blocks/footer/__text-wrapper/footer__text-wrapper.css);
+
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/additional-title/additional-title.css);

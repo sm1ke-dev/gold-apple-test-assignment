@@ -1,0 +1,15 @@
+.footer__line {
+  display: none;
+  border: none;
+  border-bottom: 1px solid #f7f7f7;
+  opacity: 0.1;
+  width: 100vw;
+  margin-top: 26px;
+  margin-left: -20px;
+}
+
+@media screen and (max-width: 480px) {
+  .footer__line {
+    display: block;
+  }
+}

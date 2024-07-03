@@ -1,0 +1,30 @@
+.footer__text-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.footer__text-wrapper:first-of-type {
+  align-items: flex-start;
+}
+
+.footer__text-wrapper:last-of-type {
+  margin-top: 2px;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+@media screen and (max-width: 480px) {
+  .footer__text-wrapper {
+    gap: 10px;
+  }
+
+  .footer__text-wrapper:first-of-type,
+  .footer__text-wrapper:last-of-type {
+    align-items: center;
+  }
+
+  .footer__text-wrapper:first-of-type {
+    flex-direction: column-reverse;
+  }
+}

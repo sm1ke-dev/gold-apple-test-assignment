@@ -1,0 +1,10 @@
+.footer__stores {
+  display: flex;
+  gap: 31.5px;
+}
+
+@media screen and (max-width: 480px) {
+  .footer__stores {
+    gap: 32px;
+  }
+}

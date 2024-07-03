@@ -1,0 +1,6 @@
+@media screen and (max-width: 480px) {
+  .footer__svg_type_apple {
+    width: 99px;
+    height: 26px;
+  }
+}

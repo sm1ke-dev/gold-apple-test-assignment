@@ -1,0 +1,12 @@
+.footer__top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media screen and (max-width: 480px) {
+  .footer__top-section {
+    flex-direction: column;
+    gap: 22px;
+  }
+}

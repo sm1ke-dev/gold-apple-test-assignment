@@ -1,11 +1,11 @@
 .main__discount {
   margin-top: 110px;
-  margin-bottom: 90px;
+  margin-bottom: 94px;
 }
 
 @media screen and (max-width: 540px) {
   .main__discount {
     margin-top: 70px;
-    margin-bottom: 70px;
+    margin-bottom: 74px;
   }
 }
