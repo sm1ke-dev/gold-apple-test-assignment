@@ -5,6 +5,12 @@
   color: #000;
   font-size: 11px;
   letter-spacing: 0.13em;
+  transition: all 0.2s;
+}
+
+.discount__button:hover {
+  background-color: #000;
+  color: #fff;
 }
 
 @media screen and (max-width: 425px) {

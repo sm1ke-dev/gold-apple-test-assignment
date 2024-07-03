@@ -5,6 +5,11 @@
   color: #fff;
   font-size: 14px;
   letter-spacing: 0.1em;
+  transition: background-color 0.2s;
+}
+
+.description__button:hover {
+  background-color: #c6b09f;
 }
 
 @media screen and (max-width: 440px) {

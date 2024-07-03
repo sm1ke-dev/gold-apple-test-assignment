@@ -1,3 +1,7 @@
 .header__link_selected {
   color: #f10d48;
 }
+
+.header__link_selected:hover {
+  color: #c50000;
+}
