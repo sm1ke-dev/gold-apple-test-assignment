@@ -1,0 +1,14 @@
+.main__brand {
+  width: 223px;
+  height: 55px;
+  display: block;
+  margin: 5px auto 0;
+}
+
+@media screen and (max-width: 540px) {
+  .main__brand {
+    width: 183px;
+    height: 45px;
+    margin-top: 8px;
+  }
+}

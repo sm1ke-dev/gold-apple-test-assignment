@@ -8,3 +8,12 @@
 @import url(../blocks/header/__link/_selected/header__link_selected.css);
 @import url(../blocks/list/list.css);
 @import url(../blocks/header/__list/header__list.css);
+
+@import url(../blocks/main/__brand/main__brand.css);
+@import url(../blocks/main/__description/main__description.css);
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__pic-wrapper/description__pic-wrapper.css);
+@import url(../blocks/description/__pic/description__pic.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__subtitle/description__subtitle.css);
+@import url(../blocks/description/__button/description__button.css);

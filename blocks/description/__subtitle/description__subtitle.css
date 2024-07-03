@@ -1,0 +1,28 @@
+.description__subtitle {
+  max-width: 490px;
+  font-family: "Helvetica";
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 140%;
+  text-align: center;
+  margin: 15px auto 0;
+}
+
+@media screen and (max-width: 540px) {
+  .description__subtitle {
+    max-width: 390px;
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .description__subtitle {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .description__subtitle {
+    max-width: 260px;
+  }
+}
