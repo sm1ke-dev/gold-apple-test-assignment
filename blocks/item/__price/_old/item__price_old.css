@@ -1,0 +1,23 @@
+.item__price_old {
+  margin-left: 17px;
+  margin-right: 5px;
+  color: #b3b3b3;
+  position: relative;
+  text-decoration: none;
+}
+
+.item__price_old::before {
+  content: "";
+  width: calc(100% + 10px);
+  position: absolute;
+  left: -5px;
+  top: 45%;
+  border-bottom: 2px solid #b3b3b3;
+}
+
+@media screen and (max-width: 425px) {
+  .item__price_old {
+    margin-left: 18px;
+    margin-right: 0;
+  }
+}

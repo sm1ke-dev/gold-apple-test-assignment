@@ -1,0 +1,18 @@
+.item__title {
+  margin: 6px 0 0;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 140%;
+}
+
+@media screen and (max-width: 590px) {
+  .item__title {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .item__title {
+    margin-top: 2px;
+  }
+}

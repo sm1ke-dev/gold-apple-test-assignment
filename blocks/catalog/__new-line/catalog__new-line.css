@@ -1,0 +1,17 @@
+.catalog__new-line:nth-of-type(2),
+.catalog__new-line:nth-of-type(3) {
+  display: none;
+}
+
+@media screen and (max-width: 540px) {
+  .catalog__new-line:first-of-type {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 324px) {
+  .catalog__new-line:nth-of-type(2),
+  .catalog__new-line:nth-of-type(3) {
+    display: initial;
+  }
+}

@@ -1,0 +1,7 @@
+.catalog {
+  max-width: 580px;
+  min-width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}

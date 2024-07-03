@@ -1,0 +1,9 @@
+.main__catalog {
+  margin-top: 110px;
+}
+
+@media screen and (max-width: 540px) {
+  .main__catalog {
+    margin-top: 64px;
+  }
+}

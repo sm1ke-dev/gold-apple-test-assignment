@@ -1,0 +1,28 @@
+.catalog__items {
+  margin: 40px auto 0;
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 40px;
+  row-gap: 60px;
+}
+
+@media screen and (max-width: 640px) {
+  .catalog__items {
+    column-gap: 6.2vw;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .catalog__items {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .catalog__items {
+    margin-top: 27px;
+    row-gap: 29px;
+  }
+}

@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.item:nth-of-type(odd) {
+  align-items: flex-end;
+}
+
+@media screen and (max-width: 480px) {
+  .item,
+  .item:nth-of-type(odd) {
+    align-items: center;
+  }
+}

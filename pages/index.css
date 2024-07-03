@@ -26,6 +26,25 @@
 @import url(../blocks/achievement/__pic/achievement__pic.css);
 @import url(../blocks/achievement/__subtitle/achievement__subtitle.css);
 
+@import url(../blocks/main/__catalog/main__catalog.css);
+@import url(../blocks/catalog/catalog.css);
+@import url(../blocks/catalog/__additional-title/catalog__additional-title.css);
+@import url(../blocks/catalog/__title/catalog__title.css);
+@import url(../blocks/catalog/__subtitle/catalog__subtitle.css);
+@import url(../blocks/catalog/__new-line/catalog__new-line.css);
+@import url(../blocks/catalog/__items/catalog__items.css);
+
+@import url(../blocks/item/item.css);
+@import url(../blocks/item/__img-wrapper/item__img-wrapper.css);
+@import url(../blocks/item/__img/item__img.css);
+@import url(../blocks/item/__additional-title/item__additional-title.css);
+@import url(../blocks/item/__title/item__title.css);
+@import url(../blocks/item/__size/item__size.css);
+@import url(../blocks/item/__price-wrapper/item__price-wrapper.css);
+@import url(../blocks/item/__price/item__price.css);
+@import url(../blocks/item/__price/_old/item__price_old.css);
+@import url(../blocks/item/__buy-link/item__buy-link.css);
+
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/additional-title/additional-title.css);
