@@ -18,6 +18,14 @@
 @import url(../blocks/description/__subtitle/description__subtitle.css);
 @import url(../blocks/description/__button/description__button.css);
 
+@import url(../blocks/main/__achievement/main__achievement.css);
+@import url(../blocks/achievement/achievement.css);
+@import url(../blocks/achievement/__additional-title/achievement__additional-title.css);
+@import url(../blocks/achievement/__title/achievement__title.css);
+@import url(../blocks/achievement/__pic-wrapper/achievement__pic-wrapper.css);
+@import url(../blocks/achievement/__pic/achievement__pic.css);
+@import url(../blocks/achievement/__subtitle/achievement__subtitle.css);
+
 @import url(../blocks/title/title.css);
 @import url(../blocks/subtitle/subtitle.css);
 @import url(../blocks/additional-title/additional-title.css);

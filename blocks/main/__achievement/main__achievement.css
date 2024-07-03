@@ -1,0 +1,9 @@
+.main__achievement {
+  margin-top: 110px;
+}
+
+@media screen and (max-width: 540px) {
+  .main__achievement {
+    margin-top: 70px;
+  }
+}

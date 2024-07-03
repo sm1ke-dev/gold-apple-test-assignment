@@ -1,0 +1,13 @@
+.achievement__title {
+  margin-top: 10px;
+  max-width: 470px;
+  font-size: 35px;
+}
+
+@media screen and (max-width: 540px) {
+  .achievement__title {
+    margin-top: 5px;
+    font-size: 25px;
+    max-width: 340px;
+  }
+}

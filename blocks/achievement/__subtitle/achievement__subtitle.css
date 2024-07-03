@@ -1,0 +1,10 @@
+.achievement__subtitle {
+  max-width: 550px;
+}
+
+@media screen and (max-width: 540px) {
+  .achievement__subtitle {
+    margin-top: 14px;
+    max-width: 450px;
+  }
+}

@@ -1,0 +1,11 @@
+.achievement__pic {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 425px) {
+  .achievement__pic {
+    object-position: 22% 0;
+  }
+}
